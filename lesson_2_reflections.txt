@@ -12,3 +12,6 @@ When making alternate versions, or a potential new version that requires time to
 
 How do the diagrams help you visualize the branch structure?
 They help show the parent of each commit and which branch can navigate back to that commit.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A new commit is created, with access to the commits from both branches.
