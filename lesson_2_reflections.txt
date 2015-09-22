@@ -15,3 +15,10 @@ They help show the parent of each commit and which branch can navigate back to t
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A new commit is created, with access to the commits from both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros:
+- you don't have to manually view/resolve each change.
+
+Cons
+- ?
