@@ -6,3 +6,6 @@ The working directory is where I change the files. The repository is the tracked
 
 How can you use the staging area to make sure you have one commit per logical change?
 I can add only the files that are part of the logical change to the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When making alternate versions, or a potential new version that requires time to develop. Branches allow you to retain your master branch in case you need to fix bugs or otherwise revise it while work in your branch is in progress.
